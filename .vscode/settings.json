@@ -1,0 +1,10 @@
+{
+  "editor.fontSize": 18,
+  "files.autoSave": "onFocusChange",
+  "editor.wordWrap": "on",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "javascript.format.semicolons": "remove",
+  "editor.tabCompletion": "on"
+}
